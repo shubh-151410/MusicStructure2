@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shubhanshu.musicstructure">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AllSong" android:label="all song" />
+        <activity android:name=".AboutSong" android:label="about song" />
+        <activity android:name=".PaymentActivity" android:label="payment method" />
+        <activity android:name="com.paypal.android.MEP.PayPalActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+    <uses-sdk android:minSdkVersion="3"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+
+
+</manifest>

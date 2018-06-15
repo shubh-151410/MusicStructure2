@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicStructure</string>
+    <string name="Songname">SongName</string>
+    <string name="SongTIme">HH:MM</string>
+    <string name="NextSong">NEXT</string>
+    <string name="PauseSong">PAUSE</string>
+    <string name="PreviousSong">PREV</string>
+    <string name="AllSong">All Song</string>
+    <string name="btn_aboutSong">AboutSong</string>
+    <string name="btn_BuySong">BuySong</string>
+    <string name="AboutSong">This Activity is tell about number of song in your phone</string>
+    <string name="DiggyDown">Diggy Down:-</string>
+    <string name="About_DiggyDown">"Diggy Down" is a song recorded by Romanian recording artist Inna for her eponymous and fourth studio album (2015) and its Japanese counterpart Body and the Sun (2015). Released for digital download on 15 December 2015 through Empire Music and Roton, it samples Marian Hill\'s "Got It" (2014), for which the American duo received credit as a featured artist</string>
+    <string name="Shape_Of_You">Shape of You:-</string>
+    <string name="about_Shape_of_you">"Shape of You" is a song by English singer-songwriter Ed Sheeran. It was released as a digital download on 6 January 2017 as one of the double lead singles from his third studio album ÷ (2017), along with "Castle on the Hill"</string>
+    <string name="I_Dont_Wanna_Live_Forever">I Don’t Wanna Live Forever:-</string>
+    <string name="about_I_Dont_Wanna_Live_Forever">"I Don't Wanna Live Forever", alternatively titled "I Don't Wanna Live Forever (Fifty Shades Darker)",[1] is a song recorded by English singer-songwriter Zayn and American singer-songwriter Taylor Swift for the soundtrack to the 2017 film Fifty Shades Darker.</string>
+    <string name="It_Aint_Me">It Ain’t Me:-</string>
+    <string name="about_It_Aint_Me">"It Ain't Me" is a song by Norwegian DJ Kygo and American singer Selena Gomez. It was released by Sony and Ultra on 17 February 2017 as the lead single from Kygo\'s first EP, Stargazing. The song was written by Kygo, Gomez, Andrew Watt, Brian Lee and Ali Tamposi.</string>
+    <string name="aboutSong">This activity tell the details of few Song from the itemlist.</string>
+    <string name="aboutHume">This is the Home Screen Of the Apps.The Screen Display Information.</string>
+    <string name="aboutPaymentProcess">This is just Demo for Adding PAL library in given is the step for adding Library file name is "PayPal_MPL.jar"</string>
+</resources>
